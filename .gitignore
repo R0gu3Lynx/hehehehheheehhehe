@@ -1,4 +1,3 @@
 node_modules/
 dist/
 *.tgz
-git config --global http.https://garticphone.com.proxy http://proxyUsername:proxyPassword@proxy.server.com:port
